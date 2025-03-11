@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreshthi06/code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Shreshthi06/code/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreshthi06/code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shreshthi06/code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1622-max-value-of-equation](https://github.com/Shreshthi06/code/tree/master/1622-max-value-of-equation) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shreshthi06/code/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreshthi06/code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreshthi06/code/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Shreshthi06/code/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
