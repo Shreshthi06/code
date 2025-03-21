@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shreshthi06/code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shreshthi06/code/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Shreshthi06/code/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shreshthi06/code/tree/master/0048-rotate-image) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shreshthi06/code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Dynamic Programming
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreshthi06/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shreshthi06/code/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Shreshthi06/code/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
