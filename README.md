@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shreshthi06/code/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shreshthi06/code/tree/master/0048-rotate-image) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shreshthi06/code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Shreshthi06/code/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shreshthi06/code/tree/master/0029-divide-two-integers) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Shreshthi06/code/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
