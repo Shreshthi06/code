@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreshthi06/code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shreshthi06/code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1622-max-value-of-equation](https://github.com/Shreshthi06/code/tree/master/1622-max-value-of-equation) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shreshthi06/code/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreshthi06/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shreshthi06/code/tree/master/0013-roman-to-integer) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shreshthi06/code/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## String
 |  |
 | ------- |
