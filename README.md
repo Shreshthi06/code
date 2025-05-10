@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreshthi06/code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shreshthi06/code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1622-max-value-of-equation](https://github.com/Shreshthi06/code/tree/master/1622-max-value-of-equation) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Shreshthi06/code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shreshthi06/code/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Shreshthi06/code/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Shreshthi06/code/tree/master/0074-search-a-2d-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Shreshthi06/code/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shreshthi06/code/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Shreshthi06/code/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
