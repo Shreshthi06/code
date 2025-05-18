@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreshthi06/code/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Shreshthi06/code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shreshthi06/code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Shreshthi06/code/tree/master/0042-trapping-rain-water) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreshthi06/code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Shreshthi06/code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shreshthi06/code/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Shreshthi06/code/tree/master/0063-unique-paths-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreshthi06/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Shreshthi06/code/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shreshthi06/code/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Shreshthi06/code/tree/master/0013-roman-to-integer) |
 ## Bit Manipulation
