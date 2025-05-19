@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/Shreshthi06/code/tree/master/1622-max-value-of-equation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shreshthi06/code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shreshthi06/code/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3321-type-of-triangle](https://github.com/Shreshthi06/code/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shreshthi06/code/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shreshthi06/code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shreshthi06/code/tree/master/0088-merge-sorted-array) |
+| [3321-type-of-triangle](https://github.com/Shreshthi06/code/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shreshthi06/code/tree/master/0048-rotate-image) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shreshthi06/code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Shreshthi06/code/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3321-type-of-triangle](https://github.com/Shreshthi06/code/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
