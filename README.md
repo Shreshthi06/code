@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shreshthi06/code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shreshthi06/code/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreshthi06/code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Shreshthi06/code/tree/master/0198-house-robber) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shreshthi06/code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1622-max-value-of-equation](https://github.com/Shreshthi06/code/tree/master/1622-max-value-of-equation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shreshthi06/code/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shreshthi06/code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shreshthi06/code/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Shreshthi06/code/tree/master/0063-unique-paths-ii) |
+| [0198-house-robber](https://github.com/Shreshthi06/code/tree/master/0198-house-robber) |
 ## Matrix
 |  |
 | ------- |
