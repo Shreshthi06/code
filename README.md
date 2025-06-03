@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shreshthi06/code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shreshthi06/code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shreshthi06/code/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/Shreshthi06/code/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreshthi06/code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Shreshthi06/code/tree/master/0198-house-robber) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shreshthi06/code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shreshthi06/code/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Shreshthi06/code/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
